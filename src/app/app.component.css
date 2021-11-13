@@ -1,0 +1,11 @@
+.container {
+    margin: 20px auto;
+    width: 50%;
+    padding: 20px;
+
+    border: 1px solid white;
+    border-radius: 0.5em;
+    box-shadow: 0.2em 0.2em 0.7em rgba(163, 177, 198, 0.6),
+                -0.2em -0.2em 0.7em rgba(255, 255, 255, 1);  
+}
+

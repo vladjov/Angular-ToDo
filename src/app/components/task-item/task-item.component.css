@@ -1,0 +1,28 @@
+.task {
+    background: #f4f4f4;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: white;
+
+    
+    border: 1px solid white;
+    border-left: 6px solid lightgrey;
+    border-radius: 0.5em;
+    box-shadow: 0.2em 0.2em 0.7em rgba(163, 177, 198, 0.6),
+                -0.2em -0.2em 0.7em rgba(255, 255, 255, 1);  
+}
+
+.task.reminder {
+    border-left: 6px solid green;
+}
+
+.task h3, .task p {
+    padding: 0;
+    margin: 0;
+}
+
+.task h3 {
+    display: flex;
+    justify-content: space-between;
+}
+

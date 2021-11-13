@@ -1,0 +1,29 @@
+.form-control {
+    display: block;
+}
+
+.form-control label, .form-control input  {
+    width: 80%;
+    margin: 2.5% 5%; 
+}
+
+.form-control input {
+    padding: 10px;  
+}
+
+.form-control-check {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.form-control-check input, .form-control-check label {
+    width: max-content;
+}
+
+input {
+    width: 85%;
+    margin: 2.5% 5%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
