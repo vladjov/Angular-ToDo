@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Also run `npm run server` in another terminal. Navigate to `http://127.0.0.1:5000/tasks`, it will serve as a database.
 
 ## Code scaffolding
 
